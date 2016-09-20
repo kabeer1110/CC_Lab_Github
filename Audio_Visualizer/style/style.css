@@ -1,0 +1,21 @@
+
+            html, body {
+                text-align: center;
+                font-family: sans-serif;
+                background-color: #EBFFFB;
+                color: #58DAC0;
+            }
+            #fileWrapper{
+                transition:all 0.10s ease;
+            }
+            #fileWrapper:hover{
+                opacity: 1!important;
+            }
+            #visualizer_wrapper{
+                text-align: center;
+            }
+            footer{
+                position: fixed;
+                bottom: 2px;
+                color:#aaa;
+            }
